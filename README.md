@@ -3,6 +3,7 @@ Divine Glenn, Divineglenn12345@gmail.com
 
 This is my account for my school curriculum titled Web, Pgm, Db foundations. I will be utilizing this GitHub account to delegate my course assignments, projects, etc.  
 
+
 The repository that I have created will encompass consequential material for my course Web, Pgm, Db foundations. Within this course, it will consist of projects, assignments along with other task. It will be composed of key data, code and documentation. 
 
 
@@ -18,4 +19,8 @@ The repository that I have created will encompass consequential material for my 
 3. [Rocket Money](www.rocketmoney.com)  -Are you someone who was like me? Whenever that check hit on Friday, your spending excessively and when you went to check your account and you wondered who touched your money and where did it all go? Check out Rocket Money. Rocket Money helps you budget, keeps track of all of your accounts, it tells you your credit score, net worth, helps you with saving goals and many more. All you have to do is linked all of your associated accounts, your personal information and just like that, it'll pull up everything you swiped that card with and it will provide you with how much you spent every month. 
 4. [Amazon](www.amazon.com)  -Everything is so much easier and convenient online. Amazon has any and everything you can think about. From the eggs you may have forgotten at Walmart, go ahead and go on amazon fresh to schedule next day or same day delivery to furniture you may need for your the house you just closed on. Amazon has it all. They usually offer decent prices, and good quality. If you have an issue with your order, their customer service is there to help you as best as possible.
 5. [Youtube](www.youtube.com)  -I find Youtube both entertaining and resourceful. If your struggling with how to tint your brand new Audi Q5, all you have to do is type in, "How to tint my Q5 tutorial. If your bored, you can find your favorite youtuber, watch Youtube shorts, watch sport clips etc. Youtube offers a variety of things to be able to do to keep yourself busy.
+
+
+
+The repository that I have created will encompass consequential material for my course Web, Pgm, Db foundations. Within this course, it will consist of projects, assignments along with other task. It will be composed of key data, code and documentation. 
 
