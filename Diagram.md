@@ -21,5 +21,5 @@ C -->|Accept Offer| E{Yes} --Hired
   6. Hired
       * > The job offer has been accepted. The applicant got the job. A two week notice was not needed allowing for the seeker to start immediately. 
   7. Onboarding Process
-      * > After being hired and offered the job, the onboarding process will start on the applicants first day. During this process, it'll help the employee to adjust to their new position. Paperwork must be completed, the individual will recieve a company overview, get introduced to the team. Here is where training will take place helping the employee to become familiar with the ins and outs of the job.
+      * > After being hired and offered the job, the onboarding process will start on the applicants first day. During this process, it'll help the employee to adjust to their new position. Paperwork must be filled completed. The individual will recieve a company overview and get introduced to the team. During onboarding, training will take place to help the employee to become familiar with the ins and outs of the job. 
  
